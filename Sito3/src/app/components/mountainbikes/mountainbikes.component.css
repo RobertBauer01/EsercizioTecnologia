@@ -1,0 +1,15 @@
+.image-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .bike-item {
+    text-align: center;
+    margin: 10px;
+  }
+  
+  .bike-image {
+    width: 600px;
+    height: auto;
+  }

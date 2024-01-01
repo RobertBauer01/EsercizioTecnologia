@@ -1,0 +1,7 @@
+
+<div class="image-container">
+    <div *ngFor="let bike of bikes" class="bike-item">
+      <img [src]="bike.img" alt="{{ bike.desc }}" class="bike-image" />
+      <p>{{ bike.desc }}</p>
+    </div>
+  </div>

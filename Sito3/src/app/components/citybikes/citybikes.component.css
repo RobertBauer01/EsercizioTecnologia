@@ -1,0 +1,18 @@
+/* citybikes.component.css */
+
+.image-container {
+    display: flex;
+    justify-content: space-around; /* Adjust as needed for your layout */
+    align-items: center;
+  }
+  
+  .bike-item {
+    text-align: center;
+    margin: 10px; /* Adjust as needed for spacing between items */
+  }
+  
+  .bike-image {
+    width: 600px; /* Set the desired width for your images */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
